@@ -2,11 +2,12 @@ k-vim
 =======================
 
 
-> VERSION: 9.2
+> VERSION: 9.2-Quantumliu branch
 
 > LAST_UPDATE_TIME: 2017-07-29
 
 > 本次更新: 小版本更新, 支持vim8异步语法检查
+> Quantumliu 基于原版修改vimrc配置
 
 详细 [更新日志](https://github.com/wklken/k-vim/wiki/UPDATE_LOG)
 
